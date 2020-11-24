@@ -25,3 +25,6 @@
 [submodule "_gallery_"]
 	path = _gallery_
 	url = https://github.com/PetroulaStylianou/_gallery_.git
+[submodule "images_"]
+	path = images_
+	url = https://github.com/PetroulaStylianou/images_.git
