@@ -15,4 +15,6 @@ events:
   - pop
   - math-blaster
   - minecraft-end-user
+  -mouse
+  -keyboard
 ---
