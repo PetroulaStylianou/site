@@ -14,4 +14,6 @@ slides:
   - android-emulator
   - geolocation-simulation
   - pebble-hifi
+  - Macbook
+  - iPhone
 ---
