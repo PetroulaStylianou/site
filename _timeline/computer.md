@@ -35,4 +35,6 @@ events:
   - digital-desk
   - mobile
   - apple-smartwatch
+  - MacBook
+  - iPhone
 ---
